@@ -12,3 +12,5 @@ def multiple (a,b):
     print("The multiple of numbers :",a*b)
 
 multiple(4,2)
+
+print("Sangolli Rayanna...")
